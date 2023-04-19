@@ -6,5 +6,5 @@ cask "crave" do
   name "Crave"
   desc "A command line tool to running commands against Crave platform clusters."
   homepage "https://www.crave.io"
-
+  binary "crave-0.2-6756-darwin-amd64.bin", target: "crave"
 end

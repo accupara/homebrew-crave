@@ -7,5 +7,4 @@ cask "crave" do
   desc "A command line tool to running commands against Crave platform clusters."
   homepage "https://www.crave.io"
 
-  pkg "crave-0.2-6756-darwin-amd64.bin"
 end
